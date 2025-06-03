@@ -35,10 +35,12 @@ li{
 }
 
 #profile{
-    width: 140px;
-    background-image: linear-gradient(to right, #5578BA,#40A376);
+    width: 220px;
+    height: 220px;
+    background-image: url("./images/foto castor.jpeg");
+    background-position: center;
+    background-size: cover;
     border-radius: 50%;
-
 }
 
 .links{
